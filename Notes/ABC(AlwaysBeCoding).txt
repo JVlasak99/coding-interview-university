@@ -1,0 +1,22 @@
+1. Always be coding: the more you code, the better you'll get
+    focused practice
+        Have goals, explore new ideas, challenge yourself
+        develop a portfolio of unfinished and finished projects
+2. Master a multi-paradigm language
+3. Know thy complexities
+4. Re-invent the wheel
+    You should implement the most common data structure in your language of choice
+    Implement the following:
+        vector(dynamic array), linked list, stack, queue, circular queue, hash map, set, priority queue, bst
+5. Solve word problems
+    LOTS OF WORD PROBLEMS
+
+
+Whiteboarding:
+1. Slow down
+2. Ask questions
+    talk through what you are doing and your thought process
+3. Check your work
+    take a minute and run through with sample input
+    check how your code handles unusual inputs and edge cases
+    
